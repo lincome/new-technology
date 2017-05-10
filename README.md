@@ -1,9 +1,23 @@
 # new-technology
 计算机领域的新技术
 
-* 2013 docker
+* 2014 – SWIFT
+* 2013 – docker
+* 1995 – JavaScript、PHP
+* 1993 – Ruby
+* 1991 – Python、Java
+* 1987 – Perl
+* 1987 – Perl
+* 1980 – C++
+* 1978 – SQL
+* 1972 – C
+* 1964 – BASIC
+* 1959 – COBOL
+* 1958 – ALGOL 58
+* 1955 – FORTRAN
+* 1947 – 冯·诺依曼存储程序计算机概念
 
-* 1951 – Regional Assembly Language
+<!-- * 1951 – Regional Assembly Language
 * 1952 – Autocode
 * 1954 – IPL (LISP语言的祖先)
 * 1955 – FLOW-MATIC (COBOL语言的祖先)
@@ -64,4 +78,4 @@
 * 2003 – Scala
 * 2007 – Clojure
 * 2009 – Go
-* 2011 – Dart
+* 2011 – Dart -->
