@@ -3,6 +3,8 @@
 
 * 2014 – SWIFT
 * 2013 – docker
+* 2011 – WebSocket协议（实时通信）
+* 2009 – go
 * 1995 – JavaScript、PHP
 * 1993 – Ruby
 * 1991 – Python、Java
