@@ -1,14 +1,13 @@
 # new-technology
 计算机领域的新技术
 
-* 2014 – SWIFT
-* 2013 – docker
+* 2014 – SWIFT（IOS编程语言）
+* 2013 – docker（应用容器引擎）
 * 2011 – WebSocket协议（实时通信）
-* 2009 – go
+* 2009 – go（一种新的语言，一种并发的、带垃圾回收的、快速编译的语言）
 * 1995 – JavaScript、PHP
 * 1993 – Ruby
 * 1991 – Python、Java
-* 1987 – Perl
 * 1987 – Perl
 * 1980 – C++
 * 1978 – SQL
