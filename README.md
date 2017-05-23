@@ -1,6 +1,7 @@
 # new-technology
 计算机领域的新技术
 
+* 2017 – Google将Kotlin定义为Android开发语言
 * 2014 – SWIFT（IOS编程语言）
 * 2013 – swoole（PHP的异步、并行、高性能网络通信引擎）
 * 2013 – docker（应用容器引擎）
